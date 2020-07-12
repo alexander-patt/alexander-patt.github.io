@@ -1,0 +1,16 @@
+# General information
+title: Personal Page
+author: Alexander Patt
+email: alexander.patt@iab.de
+description: Welcome to my personal webpage. I am an economic researcher working in labour economics, regional economics, and economic development.
+
+# Refs
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://alexander-patt.github.io" 
+github_username:  alexander-patt
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
