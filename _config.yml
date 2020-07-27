@@ -17,3 +17,7 @@ exclude:
 
 # Google analytics UA
 google_analytics: UA-173549205-1
+
+# Plugins
+plugins:
+  - jekyll-sitemap
