@@ -4,29 +4,47 @@ title: Current Research
 navlevel: header
 navtitle: Research
 position: 2
+
+
 ---
 
+### Home Ownership and  Structural Changes in the Labour Market
+
+(Jointly with Bernd Fitzenberger)
+
+  Despite increased mortgage affordability and declining borrowing costs, home
+  ownership rates among early-career individuals in Germany have fallen since
+  the early 2000s. We hypothesize that this trend is driven by a major shift in
+  the composition of employment, namely, the rise of the service sector and the
+  growing concentration of jobs in urban areas, which has led to greater
+  job-related mobility and higher opportunity costs of home ownership. We
+  document these developments and develop a structural model to estimate
+  counterfactual scenarios, allowing us to assess how the housing market might
+  have evolved under alternative conditions.
+
+(JEL J31, J62, R21, R23)
 
 ### Play Stupid Games, Win Stupid Prizes
 
 (Jointly with Katharina Hartinger)
 
-We use slot machine games to study economic decision-making in complex
-high-uncertainty environments. Despite monetary stakes, roughly 20 percent of
-study participants adopt a non-expected payoff maximizing strategy tied to the
-game's entropy. This playful-exploratory approach leads to suboptimal game
-switching behavior compared to an optimal choice in the Bayesian multi-armed
-bandit model. We explain this by a model framework in which agents have
-preference over a rational and a curiosity-driven perspective.  A set of
-treatments capture and disentangle this deliberate rationality-curiosity
-trade-off: By changing key game features, such as the stakes, we shock the
-relative utility gain of curious behavior. By offering additional, albeit
-payoff-neutral, choices, we allow players to explore within the
-payoff-maximizing strategy.  Comparing in-game behavior to the predictions, we
-find that a significant share of players choose to alter their choices.  Our new
-approach contributes to a better understanding of how economic agents deal with
-unusual, high-uncertainty environments---which applies to a broader context of
-stock market trading and gambling. (JEL D83, D91, G40)
+  We use slot machine games to study strategy choice and learning
+  under high uncertainty. In this natural yet controlled setting,
+  players choose and switch between three slot machine games with
+  different (but unknown) winning chances for a fixed number of
+  rounds. We find that half of players engage in explorative behavior
+  and that the choices of 20 percent of players are best explained by
+  curiosity-based exploration: In the exploration-exploitation
+  trade-off, these players switch significantly more frequently than
+  justified by Bayesian exploration.  This behavior is driven by the
+  desire to keep entropy---the element of mystery in the game---alive.
+  When a treatment allows players to satisfy curiosity without
+  sacrificing expected payoff, these players move towards canonical
+  Bayesian game choice. Survey evidence supports curiosity-driven
+  element of decision-making in the presence of real stakes and high
+  complexity.
+  
+(JEL C91, D81, D83, D91)
 [[Youtube]](https://www.youtube.com/watch?v=G_0zh8eFhls)
 
 ---
@@ -48,21 +66,4 @@ training that have been the focus of the literature.  (JEL J24, J31, D83)
 [[SSRN]](https://www.google.com/url?q=https%3A%2F%2Fpapers.ssrn.com%2Fabstract%3D2673990&sa=D)
 
 ---
-
-### International Emigrant Selection on Occupational Skills
-
-(Jointly with Jens Ruhose, Simon Wiederhold, and Miguel Flores)
-
-We present the first evidence on the role of occupational choices and acquired
-skills for migrant selection. Combining novel data from a representative Mexican
-task survey with rich individual-level worker data, we find that Mexican
-migrants to the United States have higher manual skills and lower cognitive
-skills than non-migrants. Results hold within narrowly defined
-region-industry-occupation cells and for all education levels. Consistent with a
-Roy/Borjas-type selection model, differential returns to occupational skills
-between the United States and Mexico explain the selection pattern. Occupational
-skills are more important to capture the economic motives for migration than
-previously used worker characteristics. (JEL F22, O15, J61, J24)
-[[DOI]](https://doi.org/10.1093/jeea/jvaa032)
-
 
